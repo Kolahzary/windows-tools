@@ -9,10 +9,10 @@ microsoft-dns.bat delete kolahzary.ir testing.kolahzary.ir text-content-here
 
 
 ## Usage with win-acme
-1- Download and extract win-acme
-2- Copy Scripts into win-acme/Scripts folder
-3- Open wacs.exe
-4- Manually complete wizard or simply paste following code into window:
+1. Download and extract win-acme
+2. Copy Scripts into win-acme/Scripts folder
+3. Open wacs.exe
+4. Manually complete wizard or simply paste following code into window:
 ```
 M
 1
