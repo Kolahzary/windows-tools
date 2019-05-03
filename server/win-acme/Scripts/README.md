@@ -1,4 +1,5 @@
 # win-acme dns challenge scripts for Microsoft DNS Server
+Microsoft DNS Server should be installed on the same server
 
 ## Example:
 ```
